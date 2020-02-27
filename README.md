@@ -2,7 +2,7 @@
 This is a Notes making Online application where you can save all your notes with your account details. 
 
 ### Application consists features such as
-1. Portals for each user, 
+1. Portals for each user
 2. Sending an activation key to the user account for account confirmation after registering
 3. sessions to continue from where he left
 4. cookies to store the user details when he checks remember me in the registration
