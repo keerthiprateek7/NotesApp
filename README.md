@@ -26,8 +26,8 @@ if you want to use this function through local host you may go through this link
 7. setcookie("name","", time()-1000); ---> to delete cookie
 8. serializeArray()---> to collect user inputs
 9. mysqli_real_escape_string() ---> to remove unnecessary things
-10.md5(), hash('sha256', $password)--> two meethods for converting password into hashcode
-11.mysqli_num_rows() ---> to see number of rows that are available in the table of a database
-12.mysqli_error() ---> gives the last executed query
-13.bin2hex(openssl_random_pseudo_bytes(16));---> generates activation code and later converts into hexadecimal one 
-14.explode(',',variable) ---> splits the value in variable based on the ','
+10. md5(), hash('sha256', $password)--> two meethods for converting password into hashcode
+11. mysqli_num_rows() ---> to see number of rows that are available in the table of a database
+12. mysqli_error() ---> gives the last executed query
+13. bin2hex(openssl_random_pseudo_bytes(16));---> generates activation code and later converts into hexadecimal one 
+14. explode(',',variable) ---> splits the value in variable based on the ','
